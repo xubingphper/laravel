@@ -1,2 +1,1 @@
-# laravel
-laravel 初始化项目
+这就是一个刚安装出来的laravel框架的源代码
